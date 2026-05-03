@@ -1,0 +1,6 @@
+{
+  "name": "Movie Recommendation System",
+  "description": "A machine learning-based application designed to suggest relevant movies to users based on their preferences, past ratings, or movie similarity. Developed by Nitin Saini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
