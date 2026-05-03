@@ -1,13 +1,3 @@
-```bash
-git add .
-git commit -m "Updated READMEHere is the perfectly formatted `README.md` file updated to include both of your specific screenshots. 
-
-I have automatically converted the spaces in your file names to `%20` in the image links. Web browsers and GitHub require this formatting to read files with spaces correctly, otherwise the images will show up broken!
-
-You can copy everything inside the box below and paste it directly into your `README.md`:
-
-***
-```markdown
 # MoviRec Engine: Intelligent Movie Recommendation Platform
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
@@ -86,14 +76,12 @@ Follow these instructions to set up the project locally on your machine.
 ## 📝 License
 
 This project is for educational and portfolio purposes.
-```
 
-***
-
-Once you have saved that in your VS Code, you can push this beautiful update to your repository by running these three quick commands in your terminal:
+### Step 3: Push the Fix to GitHub
+Once you have saved that exact text in your file, run these commands in your VS Code terminal:
 
 ```bash
 git add .
-git commit -m "Updated README with exact screenshot paths"
+git commit -m "Fixed README formatting"
 git push
 ```
